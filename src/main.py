@@ -1,4 +1,4 @@
-from src import FilmsManager
+from src.films_manager import FilmsManager
 
 manager = FilmsManager('src/films_db.json')
 # new_film = {'title': 'Uncharted', 'genre': 'action movie', 'year': 2022, 'rating': 6.8}
