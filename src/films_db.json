@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Star Wars: Episode III — Revenge of the Sith",
+    "genre": "Epic Space Opera",
+    "year": 2005,
+    "rating": 8.1
+  },
+  {
+    "title": "Attack on Titan",
+    "genre": "Action",
+    "year": 2013,
+    "rating": 8.7
+  },
+  {
+    "title": "Uncharted",
+    "genre": "Action",
+    "year": 2022,
+    "rating": 6.8
+  },
+  {
+    "title": "темный рыцарь",
+    "genre": "боевик",
+    "year": 2008,
+    "rating": 8.5
+  }
+]
